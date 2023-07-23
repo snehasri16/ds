@@ -1,4 +1,4 @@
-package com.dp;
+
 import java.util.*;
 public class NonRepeatingCharacter {
     static char nonrepeatingCharacter(String s){
